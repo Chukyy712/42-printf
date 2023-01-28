@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/zoro/42/Projects/ft_printf",
+      "program": "/Users/zoro/42/Projects/ft_printf/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
