@@ -10,7 +10,7 @@
 
 The aim of this project is to recode printf and learn how to use variadic arguments.
 
-The subject of the project can be found in [this link](https://raw.githubusercontent.com/chukyy712/ft_printf/en.subject.pdf).
+The subject of the project can be found in [this link](https://raw.githubusercontent.com/chukyy712/main/ft_printf/en.subject.pdf).
 
 ## Mandatory part
 
